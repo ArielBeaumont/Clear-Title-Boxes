@@ -1,0 +1,14 @@
+String firstRun = jTextField1.getText();
+        if(firstRun.equals("Username")){
+            System.out.println("First App Opened");
+            System.out.println("Login Will Be Cleared");
+            System.out.println("The 'Username' Will Be Changed");
+            System.out.println("To The Next User Write Name");
+            System.out.println("==---------==");
+            jTextField1.setText("");
+            
+            
+            
+           // FirstRun = Variable
+           // Equals = Verify if is Equal to (///////)
+           // setText will clear if its the first time opening it
