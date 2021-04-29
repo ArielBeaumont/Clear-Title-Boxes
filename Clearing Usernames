@@ -12,3 +12,12 @@ String firstRun = jTextField1.getText();
            // FirstRun = Variable
            // Equals = Verify if is Equal to (///////)
            // setText will clear if its the first time opening it
+                
+                
+                
+                IMPORTANT IMPORTANT IMPORTANT IMPORTANT IMPORTANT IMPORTANT 
+                
+                                     ADD } TO THE FINAL OF THE IF
+                
+                
+                IMPORTANT IMPORTANT IMPORTANT IMPORTANT IMPORTANT IMPORTANT 
